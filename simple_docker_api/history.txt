@@ -1,0 +1,1001 @@
+history
+   78  cd Projeto_Livraria_Java/
+   79  git status
+   80  git add .
+   81  git commit "ok"
+   82  git commit -m "ok"
+   83  git push
+   84  git branch
+   85  cd ..
+   86  ls
+   87  cd PortfReact/
+   88  ls
+   89  code .
+   90  ls
+   91  git add .
+   92  git commit -m "ok"
+   93  git push
+   94  git add .
+   95  git commit -m "ok"
+   96  git push
+   97  git add .
+   98  git commit -m "ok"
+   99  git push
+  100  ls
+  101  cd portfolio/
+  102  ls
+  103  git add .
+  104  git commit -m "ok"
+  105  git push
+  106  git add .
+  107  git commit -m "ok"
+  108  git add .
+  109  git commit -m "ok"
+  110  cd repos
+  111  ls
+  112  cd PortfReact
+  113  ls
+  114  code .
+  115  cd portfolio/
+  116  npm start
+  117  cd repos
+  118  ls
+  119  cd PortfReact
+  120  cd portfolio/
+  121  npm start
+  122  cd repos
+  123  ls
+  124  cd PortfReact
+  125  la
+  126  ls
+  127  code .
+  128  cd portfolio/
+  129  npm start
+  130  cd repos
+  131  ls
+  132  cd Bash
+  133  nano func.txt
+  134  ls
+  135  ./git.sh
+  136  ./git.s
+  137  ./git.sh
+  138  cd repos
+  139  ls
+  140  cd Projeto_DocManager/
+  141  ls
+  142  code .
+  143  cd ProdJson
+  144  ls
+  145  make
+  146  ./myprogram
+  147  make
+  148  ./myprogram
+  149  make
+  150  ./myprogram
+  151  make
+  152  ./myprogram
+  153  make
+  154  ./myprogram
+  155  ls
+  156  git add .
+  157  git commit -m "ok"
+  158  git add .
+  159  git commit -m "ok"
+  160  cd repos
+  161  ls
+  162  cd PortfReact
+  163  ls
+  164  cd portfolio/
+  165  code .
+  166  npm start
+  167  cd repos
+  168  ls
+  169  cd Portf
+  170  cd PortfReact
+  171  ls
+  172  cd portfolio
+  173  code .
+  174  npm start
+  175  cd repos
+  176  cd PortfReact
+  177  cd portfolio/
+  178  npm start
+  179  cd repos
+  180  ls
+  181  cd 'PortfReact (copy)'/
+  182  code .
+  183  cd ..
+  184  cd Portf
+  185  cd repos
+  186  cd Portf
+  187  cd PortfReact
+  188  cd portfolio/
+  189  code .
+  190  npm start
+  191  git add .
+  192  git commit -m "ok"
+  193  npm start
+  194  cd repos
+  195  ls
+  196  cd Portf
+  197  ls
+  198  cd PortfReact
+  199  cd portfolio/
+  200  code .
+  201  npm start
+  202  nano loop.sh
+  203  chmod +x loop.sh
+  204  ./loop.sh
+  205  nano loop.sh
+  206  ./loop.sh
+  207  nano loop.sh
+  208  ./loop.sh
+  209  cd ..
+  210  npm start
+  211  npm install mui
+  212  npm install @mui/material @emotion/react @emotion/styled
+  213  npm install --save react-modal
+  214  [200~npm install @mui/material @mui/styled-engine-sc styled-components
+  215  ~npm install @mui/material @mui/styled-engine-sc styled-components
+  216  npm install @mui/material @mui/styled-engine-sc styled-components
+  217  npm start
+  218  cd ..
+  219  ls
+  220  git status
+  221  git add .
+  222  git commit -m "ok"
+  223  git push
+  224  cd portfolio/
+  225  npm start
+  226  code .
+  227  npm start -y
+  228  cd repos
+  229  ls
+  230  cd PortfReact
+  231  cd portfolio/
+  232  npm start
+  233  code .
+  234  npm start
+  235  cd ..
+  236  git clone git@github.com:JacquesGomes/PortfReact.git
+  237  code .
+  238  cd ..
+  239  cd repos
+  240  git clone git@github.com:JacquesGomes/PortfReact.git
+  241  cd PortfReact
+  242  nautilus .
+  243  ls
+  244  git status
+  245  git add .
+  246  git rm --cached portfolio
+  247  ls
+  248  git status
+  249  fi rm--cached -f portfolio
+  250  git rm if --cached portfolio
+  251  git rm -f --cached portfolio
+  252  ls
+  253  git status
+  254  chmox +x git.sh
+  255  chmod +x git.sh
+  256  ./git.sh
+  257  npm start
+  258  nautilus .
+  259  sudo systemctl restart systemd-journald
+  260  cd portfolio/
+  261  ls
+  262  code .
+  263  cd repos
+  264  cd Projeto_DocManager/
+  265  code .
+  266  ls
+  267  make
+  268  ./myprogram
+  269  make
+  270  ./myptogram
+  271  ./myprogram
+  272  make
+  273  ./myprogram
+  274  make
+  275  ./myprogram
+  276  make
+  277  ./myprogram
+  278  make
+  279  ./myprogram
+  280  make
+  281  ./myprogram
+  282  make
+  283  ./myprogram
+  284  make
+  285  ./myprogram
+  286  make
+  287  ./myprogram
+  288  make
+  289  ./myprogram
+  290  make
+  291  ./myprogram
+  292  make
+  293  cd repos
+  294  ls
+  295  cd Projeto_DocManager/
+  296  ls
+  297  make
+  298  makefile
+  299  make
+  300  ./myprogram
+  301  make
+  302  ./myprogram
+  303  0
+  304  make
+  305  ./myprogram
+  306  make
+  307  ./myprogram
+  308  ls
+  309  make
+  310  ./myprogram
+  311  git add .
+  312  git commit -m "ok"
+  313  git push
+  314  git add .
+  315  git commit -m "ok"
+  316  git push
+  317  git add .
+  318  git commit -m "ok"
+  319  git push
+  320  cd ..
+  321  git add .
+  322  git commit -m "ok"
+  323  git push
+  324  git add .
+  325  git commit -m "ok"
+  326  git push
+  327  java -version
+  328  git status
+  329  ls
+  330  cd ..
+  331  ls
+  332  git clone git@github.com:JacquesGomes/Java_Heroku_Teste.git
+  333  git status
+  334  cd Java_Heroku_Teste/
+  335  ls
+  336  git status
+  337  git add .
+  338  git commit -m "ok"
+  339  git push
+  340  ./gradlew stage
+  341  .gradlew tasks
+  342  ./gradlew tasks
+  343  ./gradlew stage
+  344  heroku local web
+  345  nano procfile.txt
+  346  heroku local web
+  347  mv procfile.txt Procfile.txt
+  348  heroku local web
+  349  ls
+  350  mv Procfile.txt Procfile
+  351  heroku local web
+  352  git add .
+  353  git commit -m "ok"
+  354  git push
+  355  nautilus .
+  356  git add .
+  357  git commit -m "ok"
+  358  git push
+  359  heroku local web
+  360  heroku logs --tail
+  361  heroku logs
+  362  heroku logs -a
+  363  heroku logs -a untitled
+  364  ls
+  365  git status
+  366  git pull
+  367  lsw
+  368  git pull
+  369  git status
+  370  cd ..
+  371  ls
+  372  cd PortfReact
+  373  ls
+  374  cd portfolio/
+  375  npm start
+  376  cd repos
+  377  ls
+  378  cd Projeto_Livraria_Java/
+  379  ls
+  380  cd untitled/
+  381  ls
+  382  code .
+  383  cd ..
+  384  git clone git@github.com:JacquesGomes/Java_Heroku_Teste.git
+  385  ls
+  386  code .
+  387  sudo snap install --classic heroku
+  388  heroku login
+  389  cd Java_Heroku_Teste/
+  390  ls
+  391  npm start
+  392  cd repos
+  393  ls
+  394  cd PortfReact
+  395  ls
+  396  code .
+  397  cd repos
+  398  ls
+  399  mkdir ReactForm
+  400  npm create-react-app Form
+  401  npm help
+  402  npm init -y
+  403  npm install react react-dom
+  404  npm install -g create-react-app
+  405  npx create-react-app .
+  406  ls
+  407  cd reactform/
+  408  ls
+  409  ls
+  410  npm install react-hook-form
+  411  npm start
+  412  npm init -y
+  413  npm install react react-dom
+  414  npm install -g create-react-app
+  415  npx create-react-app .
+  416  npm init -y
+  417  npm install react react-dom
+  418  npx create-react-app .
+  419  rm *
+  420  rm -f *
+  421  rmdir -f *
+  422  rmdir -r *
+  423  rmdir --help
+  424  rmdir -r -f *
+  425  rmdir -i -f *
+  426  npx create-react-app .
+  427  npm start
+  428  cd repos
+  429  ls
+  430  cd PortfReact/
+  431  ls
+  432  cd portfolio/
+  433  npm start
+  434  git status
+  435  git add .
+  436  git rm -f --cached livraria
+  437  git add .
+  438  git commit -m "ok"
+  439  git push
+  440  cd ..
+  441  code .
+  442  cd repos
+  443  git clone git@github.com:JacquesGomes/CRUD_Java_React.git
+  444  cd repos
+  445  ls
+  446  cd teste
+  447  ls
+  448  intelij .
+  449  intellij .
+  450  $ /opt/idea/bin/idea.sh
+  451  /opt/idea/bin/idea.sh
+  452  cd /opt/idea/bin/idea.sh
+  453  cd /opt/idea/bin/
+  454  which idea.sh
+  455  where idea.sh
+  456  cd /opt
+  457  ls
+  458  cd ..
+  459  cd
+  460  find / -name idea.sh
+  461  sudo find / -name idea.sh
+  462  psql -U jacques -d mytable -h localhost -p 5432
+  463  sudo -u postgres psql
+  464  psql -U open_user -d banco
+  465  psql -U open_user -d banco -p password
+  466  psql -U open_user -d banco -h localhost -p 5432
+  467  ls
+  468  npx create-react-app livraria
+  469  ls
+  470  cd lir
+  471  cd livraria/
+  472  ls
+  473  code .
+  474  npm start
+  475  ./git.sh
+  476  cd repos
+  477  cd CRUD_Java_React/
+  478  code .
+  479  nano clean.sh
+  480  chmod +x clean.sh
+  481  ./clean.sh
+  482  nano clean.sh
+  483  ./clean.sh
+  484  nano clean.sh
+  485  git status
+  486  nano clean.sh
+  487  ./git.sh 
+  488  nano clean.sh
+  489  git rm --r cached /untitled/.dea
+  490  git rm -r -f --cached /untitled/.idea
+  491  git rm -r -f --cached ./untitled/.idea
+  492  ./git.sh 
+  493  cd repos
+  494  code .
+  495  ls
+  496  cd CRUD_Java_React/
+  497  nano git.sh
+  498  chmod +x git.sh
+  499  ./git.sh
+  500  code .
+  501  npm --version
+  502  postgre --version
+  503  psql --version
+  504  history
+  505  -u psql
+  506  psql -U open_user banco -h localhost -p 5432
+  507  npm start
+  508  ls
+  509  nano loop.sh
+  510  chmod +x loop.sh 
+  511  ./loop.sh 
+  512  npm start
+  513  cd repos
+  514  ls
+  515  cd PortfReact/
+  516  ls
+  517  git status
+  518  cd portfolio/
+  519  ls
+  520  clear
+  521  ls
+  522  code .
+  523  git rm -r -f --cached /node_modules
+  524  cd ..
+  525  ls
+  526  git rm -r -f --cached /node_modules
+  527  git rm -r -f --cached node_modules
+  528  git rm -r -f --cached /portfolio/node_modules
+  529  ls
+  530  cd portfolio/
+  531  ls
+  532  git rm -f -r node_modules
+  533  ls
+  534  cd
+  535  cd repos
+  536  cd PortfReact/
+  537  ls
+  538  cd portfolio/
+  539  ls
+  540  ./git.sh
+  541  ld
+  542  ls
+  543  git rm -f -r --cached node_modules
+  544  ls
+  545  git rm -f -r --cached node_modules
+  546  ./git.sh
+  547  cd ..
+  548  ls
+  549  cd PortfReact/
+  550  cd portfolio/
+  551  ls
+  552  code .
+  553  npm start
+  554  history
+  555  git pull
+  556  touch q.cpp
+  557  rm q.cpp
+  558  mkdir rep
+  559  cd rep
+  560  touch q.cpp
+  561  code .
+  562  ls
+  563  g++ q.cpp
+  564  ./a.out
+  565  g++ q.cpp
+  566  ./a.out
+  567  g++ q.cpp
+  568  ./a.out
+  569  g++ q.cpp
+  570  ./a.out
+  571  g++ q.cpp
+  572  ./a.out
+  573  g++ q.cpp
+  574  ./a.out
+  575  g++ q.cpp
+  576  ./a.out
+  577  g++ q.cpp
+  578  ./a.out
+  579  g++ q.cpp
+  580  ./a.out
+  581  g++ q.cpp
+  582  ./a.out
+  583  g++ q.cpp
+  584  ./a.out
+  585  g++ q.cpp
+  586  ./a.out
+  587  g++ q.cpp
+  588  ./a.out
+  589  g++ q.cpp
+  590  ./a.out
+  591  sudo apt update
+  592  sudo apt upgrade
+  593  sudo apt upgrade google-chrome-stable
+  594  clear
+  595  cd repos
+  596  ls
+  597  git clone git@github.com:JacquesGomes/Java_Armazem.git
+  598  cd Java_Armazem/
+  599  ls
+  600  git status
+  601  git add .
+  602  git commit -m "ok"
+  603  git push
+  604  ls
+  605  rm /202304__/*
+  606  rm ./202304__/*
+  607  rm ./202305__/*
+  608  ls
+  609  npm build
+  610  npm run build
+  611  ls
+  612  ./git.sh
+  613  npm run build
+  614  ./git.sh
+  615  npm run build
+  616  cd repos
+  617  ls
+  618  cd PortfReact/
+  619  ls
+  620  code .
+  621  cd portfolio/
+  622  npm start
+  623  ls
+  624  doxygen
+  625  ls
+  626  git add .
+  627  git commit -m "ok"
+  628  git push
+  629  doxygen
+  630  ls
+  631  make
+  632  ./myprogram
+  633  ls
+  634  git add .
+  635  git commit -m "ok"
+  636  git push
+  637  cd repos
+  638  ls
+  639  cd Projeto_DocManager/
+  640  code .
+  641  cd ..
+  642  ls
+  643  cd Cpp-study/
+  644  code .
+  645  clear
+  646  ls
+  647  cd ..
+  648  cd Projeto_DocManager/
+  649  ls
+  650  make
+  651  clear
+  652  make
+  653  ls
+  654  ./myprogram
+  655  clear
+  656  ./myprogram
+  657  clear
+  658  cd repos
+  659  cd Projeto_DocManager/
+  660  code .
+  661  git add .
+  662  git commit -m "ok"
+  663  git push
+  664  mkdir fmc
+  665  cd fmc
+  666  code .
+  667  nano loop.sh
+  668  ls
+  669  chmod +loop.sh
+  670  chmod +x loop.sh
+  671  nano loop.sh 
+  672  ./loop.sh
+  673  npm run build
+  674  cd repos
+  675  ls
+  676  cd PortfReact/
+  677  ls
+  678  code .
+  679  cd portfolio/
+  680  npm start
+  681  git clone git@github.com:JacquesGomes/Cpp-study.git
+  682  git clone git@github.com:JacquesGomes/Competicao__Cpp.git
+  683  cd Cpp-study/
+  684  ls
+  685  git add .
+  686  git commit -m "ok"
+  687  git push
+  688  ls
+  689  cd ..
+  690  cd Competicao__Cpp/
+  691  git add .
+  692  git commit -m "ok"
+  693  git push
+  694  chmod +x loop.sh
+  695  ./loop.sh
+  696  ./loop.sh 4
+  697  ./loop.sh 1
+  698  1
+  699  ./loop.sh 1
+  700  ./loop.sh3
+  701  ./loop.sh
+  702  ./loop.sh > Contest_1
+  703  ./loop.sh | Contest_1
+  704  ./loop.sh > /Contest_1
+  705  ls -l
+  706  clear
+  707  ./loop.sh
+  708  mkdir Contest_2
+  709  mkdir Contest_3
+  710  mkdir Contest_4
+  711  mkdir Contest_5
+  712  ./loop.sh
+  713  mkdir Contest_6
+  714  ./loop.sh
+  715  ls
+  716  git add .
+  717  git commit -m "ok"
+  718  git push
+  719  mkdir cpp
+  720  cd cpp/
+  721  code .
+  722  cd repos
+  723  cd CRUD_Java_React/
+  724  ls
+  725  psql -U open_user -d banco -p 5432
+  726  psql -U open_user -d banco -h localhost -p 5432
+  727  cd repos
+  728  ls
+  729  cd CRUD_Java_React/
+  730  code .
+  731  ls
+  732  cd livraria
+  733  ls
+  734  npm start
+  735  cd repos
+  736  cd CRUD_Java_React/
+  737  code .
+  738  git add .
+  739  git commit -m "Ok"
+  740  git push
+  741  git add .
+  742  git commit -m "Ok"
+  743  git push
+  744  cd repos
+  745  ls
+  746  cd PHP-Pipe
+  747  code .
+  748  psql -U open_user -d banco -h localhost -p 5432
+  749  cd repos
+  750  cd CRUD_Java_React/
+  751  ls
+  752  code .
+  753  cd livraria/
+  754  npm start
+  755  git add .
+  756  git commit -m "Ok"
+  757  git push
+  758  npm run build
+  759  git rm -r --cached build/
+  760  git add .
+  761  git commit -m "ok"
+  762  git push
+  763  npm run build
+  764  cd build/
+  765  git add . 
+  766  git commit -m "ok"
+  767  ls
+  768  npm run build
+  769  git@github.com:JacquesGomes/build.git
+  770  git clone git@github.com:JacquesGomes/build.git
+  771  ls
+  772  cd build
+  773  ls
+  774  cd repos
+  775  ls
+  776  cd PortfReact/
+  777  code .
+  778  ls
+  779  cd portfolio/
+  780  npm start
+  781  ls
+  782  nano git.sh
+  783  chmod +x git.sh
+  784  ./git.sh
+  785  git clone git@github.com:JacquesGomes/Modern_CRUD_Java.git
+  786  psql -U open_user -d banco -h localhost -p 5432
+  787  npm install vue
+  788  npm install d3
+  789  npm install -g http-server
+  790  http-server
+  791  vue create .
+  792  npm install -g @vue/cli
+  793  vue create .
+  794  npm run serve
+  795  npm install charts.js
+  796  npm install chart.js axios
+  797  npm run serve
+  798  npm install chart.js@2.9.4
+  799  npm run serve
+  800  git status
+  801  cd ..
+  802  git clone git@github.com:JacquesGomes/vue_github_stats.git
+  803  ls
+  804  cd repos
+  805  ls
+  806  git clone git@github.com:JacquesGomes/VUE_CRUD.git
+  807  git clone git@github.com:JacquesGomes/Vue_Charts.git
+  808  npm install vue
+  809  ls
+  810  npm uninstall vue
+  811  ls
+  812  rm *.json
+  813  ls
+  814  cd Vue_Charts/
+  815  ls
+  816  npm install vue
+  817  npm install d3
+  818  touch CrimeVisualization.vue
+  819  touch index.html
+  820  touch main.js
+  821  code .
+  822  ls
+  823  cd ..
+  824  ls
+  825  rm VUE_CRUD/
+  826  rmdir VUE_CRUD/
+  827  rm VUE_CRUD/*
+  828  rmdir VUE_CRUD/
+  829  cd VUE_CRUD/
+  830  ls
+  831  cd ..
+  832  rmdir -f VUE_CRUD/
+  833  rmdir -r VUE_CRUD/
+  834  rmdir --f VUE_CRUD/
+  835  mkdir vue_github
+  836  cd vue_github/
+  837  ls
+  838  vue create .
+  839  code .
+  840  ls
+  841  git add .
+  842  git commit -m "ok"
+  843  git push
+  844  cd ..
+  845  ls
+  846  cd vue_charts/
+  847  ls
+  848  git add .
+  849  git commit -m "ok"
+  850  git push
+  851  cd ..
+  852  ls
+  853  cd vue_github/
+  854  code .
+  855  ls
+  856  git merge git@github.com:JacquesGomes/vue_github_stats.git
+  857  ls
+  858  cd ..
+  859  ls
+  860  cd vue_github_stats/
+  861  ls
+  862  nano git.shj
+  863  mv git.shj git.sh
+  864  chmod +x git.sh
+  865  ./git.sh
+  866  code .
+  867  npm run serve
+  868  cd repos
+  869  ls
+  870  cd vue_github
+  871  ls
+  872  cd ..
+  873  rmdir vue_github
+  874  ls
+  875  cd vue_github_st
+  876  cd vue_github_stats/
+  877  ls
+  878  code .
+  879  cd ..
+  880  ls
+  881  rm *.json
+  882  ls
+  883  clear
+  884  ls
+  885  cd Modern_CRUD_Java/
+  886  ls
+  887  cd ..
+  888  ls
+  889  cd CRUD_Java_React/
+  890  ls
+  891  code .
+  892  ls
+  893  ./git.sh 
+  894  ls
+  895  cd livraria/
+  896  npm start
+  897  ls
+  898  nano git.sh
+  899  chmod +x git.sh
+  900  ./git.sh
+  901  ls
+  902  git add .
+  903  git commit -m "ok"
+  904  git push
+  905  ls
+  906  make run
+  907  cd 
+  908  cd repos
+  909  ls
+  910  git clone git@github.com:JacquesGomes/react_monsters.git
+  911  cd react_monsters/
+  912  cd ..
+  913  code .
+  914  make
+  915  make run
+  916  cd repos
+  917  ls
+  918  mkdir monsters_selection
+  919  cd monsters_selection/
+  920  npx create-react-app .
+  921  ls
+  922  npm start
+  923  code .
+  924  npm start
+  925  cd repos
+  926  ls
+  927  cd portal-atividades/
+  928  ls
+  929  mkdir portal
+  930  rmdir portal
+  931  cd ..
+  932  mkdir portal
+  933  mv portal-atividades/ portal
+  934  ls
+  935  cd portal
+  936  ls
+  937  mkdir portal-front
+  938  cd portal-front/
+  939  npx create-react-app .
+  940  ls
+  941  npm start
+  942  code .
+  943  npm start
+  944  ls
+  945  cd ..
+  946  ls
+  947  cd CRUD_Java_React/
+  948  ls
+  949  npm start
+  950  cd livraria/
+  951  npm start
+  952  cd repos
+  953  ls
+  954  git clone git@github.com:JacquesGomes/Desafios_Java_DIO.git
+  955  cd Desafios_Java_DIO/
+  956  git status
+  957  git add .
+  958  nano git.sh
+  959  chmod +x git.sh 
+  960  ./git.sh
+  961  ls
+  962  ./git.sh
+  963  cd repos
+  964  cd Bash
+  965  mkdir Docker
+  966  cd Docker
+  967  nano courseinfo.txt
+  968  cd ..
+  969  ls
+  970  mkdir Git
+  971  mkdir Git_stuff
+  972  cd Git
+  973  cd ..
+  974  cd Git_stuff/
+  975  touch git.txt
+  976  nano git.txt 
+  977  cd repos
+  978  git clone git@github.com:JacquesGomes/Docker_Practice.git
+  979  cd Docker_Practice/
+  980  ls
+  981  cd simple_docker_api/
+  982  touch Dockerfile
+  983  nano Dockerfile 
+  984  docker build -t spring-boot-demo .
+  985  ls
+  986  cd build
+  987  ls
+  988  cd ..
+  989  ls
+  990  ./gradlew clean build
+  991  ls
+  992  ./gradlew bootRun
+  993  git add .
+  994  ls
+  995  nano Dockerfile 
+  996  docker build -t spring-boot-demo .
+  997  ls
+  998  nano Dockerfile 
+  999  docker build -t spring-boot-demo .
+ 1000  docker ps
+ 1001  docker rm resources-db-1
+ 1002  docker stop resources-db-1
+ 1003  docker rm resources-db-1
+ 1004  docker ps
+ 1005  docker run -p 8080:8080 spring-boot-demo
+ 1006  docker ps
+ 1007  docker log
+ 1008  docker info
+ 1009  docker ps -a
+ 1010  docker ps
+ 1011  ls
+ 1012  nano Dockerfile 
+ 1013  docker run -p 8080:8080 spring-boot-demo
+ 1014  docker ps
+ 1015  netstat -tuln | grep 8080
+ 1016  docker ps
+ 1017  docker logs
+ 1018  lsof -i :8080
+ 1019  kill 26099
+ 1020  lsof -i :8080
+ 1021  docker run -p 8080:8080 spring-boot-demo
+ 1022  nano Dockerfile 
+ 1023  docker run -p 8080:8080 spring-boot-demo
+ 1024  java -v
+ 1025  java --version
+ 1026  sudo apt-get remove openjdk-*
+ 1027  java --version
+ 1028  sudo apt-get install openjdk-19-jdk
+ 1029  docker run -p 8080:8080 spring-boot-demo
+ 1030  java --version
+ 1031  java -version
+ 1032  cd /usr/lib/jvm/
+ 1033  ls
+ 1034  sudo update-alternatives --config java
+ 1035  sudo update-alternatives --set java /usr/lib/jvm/java-19-openjdk-amd64/bin/java
+ 1036  cd
+ 1037  cd repos
+ 1038  cd Docker_Practice/
+ 1039  cd simple_docker_api/
+ 1040  java -version
+ 1041  sudo update-alternatives --auto java
+ 1042  java -version
+ 1043  docker build -t simple-demo .
+ 1044  nano Dockerfile 
+ 1045  docker build -t simple-demo .
+ 1046  nano grad.txt
+ 1047  ./gradlew clean build
+ 1048  export JAVA_HOME=/usr/lib/jvm/java-19-openjdk-amd64/bin/java
+ 1049  ./gradlew clean build
+ 1050  cd /usr/lib/jvm
+ 1051  ls
+ 1052  export JAVA_HOME=/usr/lib/jvm/java-19-openjdk
+ 1053  ls
+ 1054  export JAVA_HOME=/usr/lib/jvm/openjdk-19
+ 1055  ./gradlew clean build
+ 1056  cd openjdk-19/
+ 1057  ls
+ 1058  cd ..
+ 1059  cd java-1
+ 1060  cd java-1.19.0-openjdk-amd64
+ 1061  ls
+ 1062  cd ..
+ 1063  cd java-19-openjdk-amd64/
+ 1064  ls
+ 1065  export JAVA_HOME=/usr/lib/jvm/java-1.19.0-openjdk-amd64
+ 1066  ./gradlew clean build
+ 1067  cd /repos/
+ 1068  cd ~/repos
+ 1069  cd Docker_Practice/
+ 1070  ls
+ 1071  cd simple_docker_api/
+ 1072  ./gradlew clean build
+ 1073  ./gradlew bootRun
+ 1074  history
+ 1075  echo >> history.txt history
+ 1076  cat history.txt 
+ 1077  history >> history.txt

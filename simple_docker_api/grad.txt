@@ -1,0 +1,33 @@
+./gradlew clean build -> remove old stuff
+
+./gradlew bootRun
+
+
+lsof -i :8080 -> list process related to the port
+
+kill number -> kill process 
+
+
+
+docker build -t spring-boot-api-demo .
+
+docker run -p 8080:8080 spring-boot-api-demo
+
+docker ps -> containers
+
+docker images -> images
+
+docker container prune -> delete all stopped containers
+
+docker rmi $(docker images -q) -> delete all images
+
+docker image prune -> delete unused images
+
+docker build -> builds the image and runs the instructions
+
+docker run -> creates a container that runs an instance of a docker image
+
+To run the dockerfile i need to run gradlew commands from terminal and use the build from it,
+but, sometimes the gradlew leaves something running on the port, so anything running on the port needs to be killed to avoid bugs.
+Also, is good to delete the build generated from it, when using Intellij for running the app.
+
