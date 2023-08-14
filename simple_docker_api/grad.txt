@@ -31,3 +31,24 @@ To run the dockerfile i need to run gradlew commands from terminal and use the b
 but, sometimes the gradlew leaves something running on the port, so anything running on the port needs to be killed to avoid bugs.
 Also, is good to delete the build generated from it, when using Intellij for running the app.
 
+
+Docker inspect → info detalhada de um container
+
+docker pull ubuntu → baixar uma imagem do ubuntu	
+
+docker run ubuntu → executar um container com a imagem do ubuntu
+
+docker cp arquivo.txt Ubuntu-A:/aula/ → copiar arquivo para o container ubuntu-a
+
+docker run –name → - - name = indiciar o nome do container
+
+-p = referenciar porta utilizada pelo container
+
+docker image ls → listar todas as imagens em um host
+
+Qual comando é utilzado para atualizar a quantidade de memória em 128 megabytes em um container com o nome de php-A?
+docker update --memory 128m php-A
+
+docker container ls → mostra containers em execução
+
+stress → app para rodar um teste de stress no container
