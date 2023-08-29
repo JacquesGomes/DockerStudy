@@ -1,0 +1,16 @@
+
+MYSQL_ROOT_PASSWORD = variável obrigatória
+
+docker run -e MYSQL_ROOT_PASSWORD=Senha123 --name mysql-A -d -p 3306:3306 mysql
+
+docker exec -it mysql-A bash
+
+mysql -u root -p --protocol=tcp 
+
+volume + destination = lugar onde os dados são salvos
+
+docker run -e MYSQL_ROOT_PASSWORD=Senha123 --name mysql-A -d -p 3306:3306 --volume =/data/mysql-A:/var/lib/mysql mysql
+Esse comando fará com que os dados sejam salvos localmente (caso aconteça algo com o container, os dados serão preservados)
+Além disso, basta reiniciar o container com esse endereço e ele irá utilizar os dados que ficaram salvos.
+
+ 

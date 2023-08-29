@@ -1,0 +1,39 @@
+Quando se constrói uma imagem de uma Dockerfile, as instruções são executadas e as mudanças são salvas. O conjunto de mudanças é chamado de 'layer'. 
+
+
+
+--build-arg WELCOME_TEXT=Welcome! -> this will change the variable inside the Dockerfile
+
+
+
+--env -> setting env variables to containers
+
+
+
+docker run -it ubuntu -> tornar interativo e colocar um shell para usar
+
+
+
+docker run -dti ubuntu -> run on the background
+
+docker exec -it +id /bin/bash -> entrar no container
+
+docker run -dti --name Ubuntu-A ubuntu (Ubuntu-A = nome)
+
+
+
+docker exec Ubuntu-A mkdir /destino = criar uma pasta sem ter que entrar no bash
+
+docker cp MeuArquivo.txt Ubuntu-A:/destino copiar arquivo do sistema local para o container
+
+
+
+docker cp Ubuntu-A:/destino/arquivo.txt Zipcopia.zip = copiar do container para sistema local
+
+docker pull debian:9 => tag para baixar a versão 9
+
+docker stop e docker start
+
+docker container prune = remover containers inativos
+
+
